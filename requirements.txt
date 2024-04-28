@@ -1,0 +1,5 @@
+openai
+loguru
+requests
+fastapi
+python-dotenv
